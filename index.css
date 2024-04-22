@@ -399,9 +399,9 @@ header .container nav ul li a:hover, header .container nav div a :hover {
 .about .container .images .des {
     display: flex;
     align-items: baseline;
-    justify-content: space-around;
+    justify-content: space-between;
     line-height: 1.3;
-    padding: 20px 0;
+    padding: 20px 10px;
 }
 .about .container .images .des p {
     font-size: 16px;
